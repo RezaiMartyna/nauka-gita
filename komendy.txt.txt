@@ -1,0 +1,10 @@
+autoprefixer-cli -o main.prefixed.css main.css 
+
+autoprefixer-cli ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css 
+(możesz przetestować działanie Autoprefixera np. wpisując w pliku style.css regułę z display: flex),
+
+
+html-validate FILENAME..
+
+html-validate ma wyświetlać listę błędów we wszystkich plikach .html.
+
